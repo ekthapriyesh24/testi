@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testi/static/css/main.26be59fb.chunk.css",
+    "main.js": "/testi/static/js/main.35c1cd3e.chunk.js",
+    "main.js.map": "/testi/static/js/main.35c1cd3e.chunk.js.map",
+    "runtime~main.js": "/testi/static/js/runtime~main.394e3185.js",
+    "runtime~main.js.map": "/testi/static/js/runtime~main.394e3185.js.map",
+    "static/css/2.4b332065.chunk.css": "/testi/static/css/2.4b332065.chunk.css",
+    "static/js/2.3122c697.chunk.js": "/testi/static/js/2.3122c697.chunk.js",
+    "static/js/2.3122c697.chunk.js.map": "/testi/static/js/2.3122c697.chunk.js.map",
+    "index.html": "/testi/index.html",
+    "precache-manifest.b472d00973b383ac06a8c164c7b9d1ba.js": "/testi/precache-manifest.b472d00973b383ac06a8c164c7b9d1ba.js",
+    "service-worker.js": "/testi/service-worker.js",
+    "static/css/2.4b332065.chunk.css.map": "/testi/static/css/2.4b332065.chunk.css.map",
+    "static/css/main.26be59fb.chunk.css.map": "/testi/static/css/main.26be59fb.chunk.css.map",
+    "static/media/index.css": "/testi/static/media/back5.6eded0dc.jpg",
+    "static/media/cal.jpeg": "/testi/static/media/cal.435cf0a5.jpeg",
+    "static/media/chic1.jpg": "/testi/static/media/chic1.e4c5c4c6.jpg",
+    "static/media/mypic2.jpg": "/testi/static/media/mypic2.da489316.jpg",
+    "static/media/react-bootstrap-carousel.css": "/testi/static/media/react-bootstrap-carousel.f7448c04.ttf",
+    "static/media/syn.png": "/testi/static/media/syn.807c1ea8.png"
+  }
+}
